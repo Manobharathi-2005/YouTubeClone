@@ -13,7 +13,7 @@
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
-@media(min-width:1000px){
+@media(max-width:1000px){
     .video-grid{
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
