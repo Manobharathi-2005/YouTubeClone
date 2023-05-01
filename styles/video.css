@@ -17,9 +17,7 @@
     .video-grid{
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
-    .video-time{
-        right:71px;
-    }
+    
 }
 
 .video-author,
@@ -66,6 +64,6 @@ row-gap:40px ;
     right:5px;
     font-size:12px;
     font-weight:500;
-    padding:4px 4px 4px 4px;
+    padding:4px;
     border-radius:2px;
 }
